@@ -1,0 +1,19 @@
+.nav-wrapper{
+    background-color: crimson;
+}
+
+.slider .indicators .indicator-item.active{
+    background-color: crimson;
+}
+.move{
+    margin-right: 100px;
+}
+
+.parallax-container{
+    min-height: 280px;
+    height: auto;
+}
+
+.icon-coffee{
+    color: crimson;
+}
